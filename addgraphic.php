@@ -39,7 +39,7 @@
 
     <!-- ======= Sidebar ======= -->
     <aside id="sidebar" class="sidebar">
-        <?php include('sidebar.php') ?>
+        <?php include('sidebar_admin.php') ?>
     </aside><!-- End Sidebar-->
 
     <main id="main" class="main">
