@@ -107,14 +107,19 @@
                     <form action="" method="post">
                         <h5 class="card-title">Project Accounts</h5>
                         <div class="row">
-                            <div class="col-md-4 mb-4">
+                            <div class="col-md-3 mb-4">
                                 <select name="" id="" class="form-control">
-                                    <option value="">Select</option>
+                                    <option value="">Select an action</option>
                                     <option value="">Move to Project</option>
                                     <option value="">Delete</option>
                                 </select>
                             </div>
-                            <div class="col-md-4"><button type="submit" class="btn btn-primary">Apply</button></div>
+                            <div class="col-md-3 mb-4">
+                                <select name="" id="" class="form-control">
+                                    <option value="">Select an account</option>
+                                </select>
+                            </div>
+                            <div class="col-md-3"><button type="submit" class="btn btn-primary">Apply</button></div>
                         </div>
                     </form>
                 </div>
